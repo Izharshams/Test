@@ -1,0 +1,88 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.logo{ 
+    margin-left: 20px;
+  font-size: 23px;
+  padding: 10px;
+  font-weight: 600;
+}
+.navbar ul{
+    display: flex;
+    
+}
+.navbar ul li{
+    list-style: none;
+    margin-right: 30px;
+}
+.li-btn{
+    margin-right: 30px;
+}
+.hero{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 40px;
+}
+.hero-box1{
+    width: 40%;
+}
+.hero-box1 h1{
+    font-size: 30px;
+    font-weight: 800;
+}
+.hero-box1 button{
+    width: 130px;
+    height: 30px;
+    background-color: rgb(61, 60, 60);
+    color: white;
+}
+.hero-box2{
+    background-image: url(./WhatsApp\ Image\ 2024-09-13\ at\ 22.51.37_b0efcf09.jpg);
+    width: 40%;
+    height: 400px;
+}
+.hero-icon{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    
+}
+.header-icon div{
+    width: 30%;
+}
+.header-icon span{
+    font-size: 26px;font-weight: 400;
+    margin-left: 50px;
+    margin-top: 20px;
+    
+}
+.header-icon i{
+font-size: 22px;
+}
+
+.section{
+    margin-top: 50px;
+    margin-left: 50px;
+    padding: 20px;
+}
+.section button{
+    background-color: greenyellow;
+    border: none;
+    font-size: 20px;
+    margin-right: 20px;
+}
+.section2{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.section2 div{
+    width: 30%;
+    border: 2px solid;
+    border-radius: 23px;
+}
+
+
+
